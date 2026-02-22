@@ -13,12 +13,6 @@ dsa/
 └── README.md
 ```
 
-## 📚 Topics Covered
-
-### Arrays
-- **Concatenation of Arrays** - Combining multiple arrays into a single array
-- **Product of Array Except Self** - Computing the product of all elements except the current element using prefix and suffix multiplication
-
 ## 🎯 Learning Objectives
 
 - Master fundamental data structures (Arrays, Linked Lists, Trees, Graphs, etc.)
