@@ -1,7 +1,5 @@
 # Data Structures & Algorithms (DSA) Repository
 
-A comprehensive collection of Data Structures and Algorithms implementations and solutions.
-
 ## 📁 Project Structure
 
 ```
