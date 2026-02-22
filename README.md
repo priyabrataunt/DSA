@@ -8,10 +8,24 @@ A comprehensive collection of Data Structures and Algorithms implementations and
 dsa/
 ├── Arrays/
 │   ├── Concatenation_Of_Array.py
+│   ├── Longest_Consecutive.py
 │   ├── Products_Of_Array.py
-│   └── ...
+│   └── validSuduko.py
+├── Two Pointers/
+│   └── palindrome.py
 └── README.md
 ```
+
+## 📝 Problems Solved
+
+### Arrays
+- **Concatenation of Array** - Array manipulation and concatenation
+- **Longest Consecutive Sequence** - Finding longest consecutive elements
+- **Product of Array Except Self** - Array calculations without division
+- **Valid Sudoku** - 2D array validation with hash sets
+
+### Two Pointers
+- **Valid Palindrome** - String validation using two-pointer technique
 
 ## 🎯 Learning Objectives
 
