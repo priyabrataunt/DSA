@@ -24,6 +24,7 @@ def minWindow(s: str, t: str) -> str:
             
             while formed == required:
                 if(right - left + 1) < min_len:
+                    min_len = right - left + 1
                     result = s[left:right+1]
 
 
